@@ -1,0 +1,7 @@
+model,B,train_accuracy,validation_accuracy,clean_test_accuracy,training_time_seconds
+Bagging,25,0.4208,0.325,0.325,8.58
+Bagging,50,0.575,0.375,0.4125,17.66
+Bagging,100,0.6583,0.475,0.4125,34.53
+Boosting,25,0.7417,0.3625,0.275,10.89
+Boosting,50,0.9708,0.45,0.45,21.58
+Boosting,100,1.0,0.5125,0.5375,45.08

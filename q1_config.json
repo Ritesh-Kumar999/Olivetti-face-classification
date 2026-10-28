@@ -1,0 +1,34 @@
+{
+  "project": "Olivetti Face Classification - Q1",
+  "dataset": "scikit-learn Olivetti Faces",
+  "single_tree": {
+    "max_depth": null,
+    "min_samples_leaf": 4
+  },
+  "bagging": {
+    "n_estimators_values": [
+      1,
+      5,
+      10,
+      25,
+      50,
+      100,
+      200
+    ],
+    "selected_n_estimators": 200
+  },
+  "robustness": {
+    "mask": "zero centered 16x16 block",
+    "rows_zeroed_inclusive": [
+      24,
+      39
+    ],
+    "columns_zeroed_inclusive": [
+      24,
+      39
+    ]
+  },
+  "split": {
+    "note": "Export the exact split indices and random seed from the existing Q1.ipynb; do not substitute a new split."
+  }
+}

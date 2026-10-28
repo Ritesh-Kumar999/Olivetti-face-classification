@@ -1,0 +1,8 @@
+n_estimators,train_accuracy,validation_accuracy,test_accuracy,mean_distinct_bootstrap_examples,notes
+1,,,,,Fill with exact value exported from Q1.ipynb; not guessed
+5,,,,,Fill with exact value exported from Q1.ipynb; not guessed
+10,,,,,Fill with exact value exported from Q1.ipynb; not guessed
+25,,,,,Fill with exact value exported from Q1.ipynb; not guessed
+50,,,,,Fill with exact value exported from Q1.ipynb; not guessed
+100,,,,,Fill with exact value exported from Q1.ipynb; not guessed
+200,,,,,Fill with exact value exported from Q1.ipynb; not guessed
